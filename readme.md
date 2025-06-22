@@ -4,6 +4,9 @@
 
 ---
 
+![index](https://github.com/yut0takagi/qr-code-gen/blob/main/img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-06-23%201.25.53.png)
+
+
 ## ✨ 使用技術
 
 * Python 3.x
